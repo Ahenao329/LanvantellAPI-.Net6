@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LavantellAPIS", "LavantellAPIS.csproj", "{FFDFB2FB-D05D-4D1D-912D-5BBD4CF38A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFDFB2FB-D05D-4D1D-912D-5BBD4CF38A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDFB2FB-D05D-4D1D-912D-5BBD4CF38A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDFB2FB-D05D-4D1D-912D-5BBD4CF38A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDFB2FB-D05D-4D1D-912D-5BBD4CF38A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17F1521A-9D55-4522-B3B1-ABF61FCC49D5}
+	EndGlobalSection
+EndGlobal
